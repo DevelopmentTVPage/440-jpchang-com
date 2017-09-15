@@ -1,0 +1,14 @@
+#Hugo configuration
+title = "Test"
+baseURL = "https:\/\/jpchang.com\/jpchang"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+galleryChannelIds = ""
+
+[params]
+loginId = "1758991"
+subfolder = "\/jpchang"
+firstpartycookies = false
+cookiedomain = "jpchang.com"
